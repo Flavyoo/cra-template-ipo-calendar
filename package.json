@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-just-material-ui",
+  "name": "cra-template-material-ui-only",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -11,8 +11,8 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flavyoo/cra-template-just-material-ui",
-    "directory": "cra-template-just-material-ui"
+    "url": "https://github.com/Flavyoo/cra-template-material-ui-only",
+    "directory": "cra-template-material-ui-only"
   },
   "license": "MIT",
   "engines": {
