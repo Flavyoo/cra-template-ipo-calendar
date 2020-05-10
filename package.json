@@ -8,6 +8,7 @@
     "material-ui"
   ],
   "description": "The base template for Create React App with Material UI components and icons.",
+  "main": "template.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/Flavyoo/cra-template-just-material-ui",
