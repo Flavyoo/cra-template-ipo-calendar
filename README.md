@@ -4,7 +4,7 @@ This Create React App template comes with everyting in the original
 Create React App template and with the [Material-UI](https://material-ui.com/) package and
 [Material-UI icons](https://material-ui.com/components/material-icons/) installed for you.
 
-Use it like this: npx create-react-app my-app --template cra-template-just-material-ui
+Use it like this: **npx create-react-app my-app --template cra-template-just-material-ui**
 
 For more information, please refer to:
 
