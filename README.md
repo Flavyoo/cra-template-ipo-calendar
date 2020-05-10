@@ -1,8 +1,10 @@
-# cra-template
+# cra-template-just-material-ui
 
-This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
+This Create React App template comes with everyting in the original
+Create React App template and with the [Material-UI](https://material-ui.com/) package and
+[Material-UI icons](https://material-ui.com/components/material-icons/) installed for you.
 
-If you don't specify a template (for example, `--template typescript`), this template will be used by default.
+Use it like this: npx create-react-app my-app --template cra-template-just-material-ui
 
 For more information, please refer to:
 
