@@ -1,4 +1,4 @@
-# cra-template-just-material-ui
+# cra-template-material-ui-only
 
 This Create React App template comes with everyting in the original
 Create React App template and with the [Material-UI](https://material-ui.com/) package and
