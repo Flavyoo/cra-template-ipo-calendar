@@ -1,10 +1,10 @@
-# cra-template-material-ui-only
+# cra-template-ipo-calendar
 
-This Create React App template comes with everyting in the original
-Create React App template and with the [Material-UI](https://material-ui.com/) package and
-[Material-UI icons](https://material-ui.com/components/material-icons/) installed for you.
+This is Create React App template for the [Codefogo Tech Lab on learning React](https://techlabs.codefogo.com/learn-react-by-building-a-project-from-scratch/). In this
+Tech Lab, you will learn React by building an IPO Calendar, so users can
+search companies that will be going public.
 
-Use it like this: **npx create-react-app my-app --template cra-template-material-ui-only**
+Use it like this: **npx create-react-app my-app --template cra-template-ipo-calendar**
 
 For more information, please refer to:
 

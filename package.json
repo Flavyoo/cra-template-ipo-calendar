@@ -1,13 +1,15 @@
 {
-  "name": "cra-template-material-ui-only",
-  "version": "1.0.3",
+  "name": "cra-template-ipo-calendar",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "material-ui"
+    "material-ui",
+    "codefogo",
+    "codefogo-tech-labs"
   ],
-  "description": "The base template for Create React App with Material UI components and icons.",
+  "description": "This is a base template for the Codefogo Tech Lab on learning React",
   "main": "template.json",
   "repository": {
     "type": "git",
