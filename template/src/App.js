@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://techlabs.codefogo.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Build an IPO Calendar
         </a>
       </header>
     </div>
