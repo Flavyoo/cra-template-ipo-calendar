@@ -1,6 +1,6 @@
 # cra-template-ipo-calendar
 
-This is Create React App template for the [Codefogo Tech Lab on learning React](https://techlabs.codefogo.com/learn-react-by-building-a-project-from-scratch/). In this
+This is a Create React App template for the [Codefogo Tech Lab on learning React](https://techlabs.codefogo.com/learn-react-by-building-a-project-from-scratch/). In this
 Tech Lab, you will learn React by building an IPO Calendar, so users can
 search companies that will be going public.
 

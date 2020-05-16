@@ -9,7 +9,7 @@
     "codefogo",
     "codefogo-tech-labs"
   ],
-  "description": "This is a base template for the Codefogo Tech Lab on learning React",
+  "description": "This is a Create React App template for the Codefogo Tech Lab on learning React",
   "main": "template.json",
   "repository": {
     "type": "git",
